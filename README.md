@@ -29,6 +29,9 @@ All experiments were conducted in controlled, low-power laboratory environments 
 
 #Experiments:
 -Wi-Fi jamming (at 2.4 GHz)
+
 -Radar-like pulsed signal jamming with J/S ratio analysis
+
 -Over-the-air jamming using a Vector Signal Generator (VSG) and horn antenna
+
 -Distance-based evaluation of spot vs wideband noise jamming
