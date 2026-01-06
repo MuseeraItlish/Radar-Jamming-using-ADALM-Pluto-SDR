@@ -1,10 +1,10 @@
-#Overview:
+# Overview:
 
 This repository contains my internship project on implementing and analyzing radar and wireless jamming techniques using the ADALM-Pluto Software Defined Radio (SDR) with MATLAB and GNU Radio.
 The work focuses on generating, transmitting, and visualizing different jamming signals and evaluating their effectiveness using practical performance metrics.
 All experiments were conducted in controlled, low-power laboratory environments for academic and educational purposes only.# Radar-Jamming-using-ADALM-Pluto-SDR
 
-#Objectives:
+# Objectives:
 
 -Understand radar operation and electronic jamming concepts
 
@@ -15,7 +15,7 @@ All experiments were conducted in controlled, low-power laboratory environments 
 -Analyze jamming performance using metrics like J/S ratio, duty cycle, and power control.
 
 
-#Jamming Techniques Implemented:
+# Jamming Techniques Implemented:
 
 -Gaussian Noise  – Wideband noise to raise receiver noise floor
 
@@ -27,7 +27,7 @@ All experiments were conducted in controlled, low-power laboratory environments 
 
 -Pulsed Noise Jamming – Randomized noise bursts for radar-like signals
 
-#Experiments:
+# Experiments:
 
 -Wi-Fi jamming (at 2.4 GHz)
 
