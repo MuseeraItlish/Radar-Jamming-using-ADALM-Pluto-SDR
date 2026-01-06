@@ -5,18 +5,26 @@ The work focuses on generating, transmitting, and visualizing different jamming 
 All experiments were conducted in controlled, low-power laboratory environments for academic and educational purposes only.# Radar-Jamming-using-ADALM-Pluto-SDR
 
 #Objectives:
+
 -Understand radar operation and electronic jamming concepts
+
 -Implement multiple jamming techniques using SDR
+
 -Transmit and receive real RF signals
+
 -Analyze jamming performance using metrics like J/S ratio, duty cycle, and power control.
 
 
 #Jamming Techniques Implemented:
 
 -Gaussian Noise  – Wideband noise to raise receiver noise floor
+
 -Spot Jamming – Narrowband single-tone interference
+
 -Sweep Noise Jamming 
+
 -Pseudo-Noise (PN) Jamming – BPSK-modulated deterministic noise
+
 -Pulsed Noise Jamming – Randomized noise bursts for radar-like signals
 
 #Experiments:
